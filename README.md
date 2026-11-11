@@ -9,7 +9,7 @@ The dashboard helps understand financial performance through visualizations, key
 
 ## 📸 Dashboard Preview
 
-![Financial Dashboard](Financial_Dashboard.png)
+![Financial Dashboard](Financial_Dashboard.png.png)
 
 ## 🎯 Key Performance Indicators (KPIs)
 
